@@ -1,1 +1,1 @@
-This project utilizes a Hugging Face model for language translation from English to French, German, and Spanish. It features a frontend built with Streamlit, providing users with a seamless translation experience.
+This project utilizes a Hugging Face model for language translation from English to French, German, and Spanish. It features a frontend built with Streamlit, providing users with a seamless translation  experience.
